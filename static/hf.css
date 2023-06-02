@@ -1,0 +1,14 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+
+body{
+	background: #222;
+	font-family: Arial, sans-serif;
+}
+
+section{
+	width: 1080px;
+	background: #aaa;
+}
